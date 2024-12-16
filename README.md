@@ -1,6 +1,6 @@
 ![Screenshot 2024-12-04 111155](https://github.com/user-attachments/assets/847a5a76-c6d7-4730-8d7d-27205a004cfb)# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 16.12.24
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -59,8 +59,8 @@
 
 
 
-### Name: Vinolia alaina 
-### Register Number: 24003757
+### Name: DEEPIKA.R
+### Register Number: 24900617
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
